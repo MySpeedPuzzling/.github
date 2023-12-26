@@ -1,4 +1,4 @@
-# Hi all to all curious Puzzlers and/or Developers!
+# Hi curious Puzzler and/or Developer!
 
 You can find here all the progress we are making with our speed-puzzling visionary mission!
 
